@@ -101,3 +101,5 @@ Double-check your SSID and password.
 Make sure your board supports Wi-Fi (ESP8266-based).
 If servo jitters:
 Use an external 5V power supply with a common ground.
+
+Parts of this project were assisted by AI tools
